@@ -65,10 +65,8 @@
 
 ## 📌 Connect & Collaborate
 
-- Portfolio: [yourdomain.com](https://yourdomain.com)
-- LinkedIn: [linkedin.com/in/your](https://linkedin.com/in/your)
-- Email: [you@email.com](mailto:you@email.com)
-- Blog/Medium: [medium.com/@your](https://medium.com/@your)
+- LinkedIn: [linkedin.com/in/your](https://www.linkedin.com/in/ashishgupta26/)
+- Email: [you@email.com](mailto:ashishgupta2692@gmail.com)
 
 ---
 
