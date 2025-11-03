@@ -1,20 +1,20 @@
 <!-- PROFILE README TEMPLATE - ADVANCED ML/AI ENGINEER / DATA SCIENTIST -->
 
-<h1 align="center">👋 Hi, I'm [Ashish Gupta]!</h1>
+<h1 align="center">👋 Hi, I'm Ashish Gupta!</h1>
 
 <p align="center">
-  <b>Senior Data Scientist & ML Engineer | Agentic AI | RAG Systems | 10+ years | 🚀</b><br>
+  <b>Senior Data Scientist & ML Engineer | Agentic AI  10+ years | 🚀</b><br>
   <a href="https://linkedin.com/in/your">LinkedIn</a> •
   <a href="mailto:ashishgupta2692@gmail.com">Email</a>
 </p>
 
-<!-- <p align="center">
+<p align="center">
   <img src="https://img.shields.io/badge/python-3.12-blue?logo=python">
   <img src="https://img.shields.io/badge/docker-ready-blue?logo=docker">
   <img src="https://img.shields.io/badge/langchain-expert-green?logo=langchain">
   <img src="https://img.shields.io/badge/agentic%20AI-healthcare-important?logo=tensorflow">
   <img src="https://img.shields.io/badge/rag-systems-critical?logo=postgresql">
-</p> -->
+</p>
 
 ---
 
@@ -23,7 +23,8 @@
 - **Senior Data Scientist/ML Engineer** building advanced agentic and retrieval-augmented generation systems for enterprises, especially regulated healthcare.
 - Experienced in MLOps, LangChain, LLM optimization, multimodal AI architectures.
 - Mentor for data science interviews and career advancement.
-- Continuous learner: IIT Hyderabad MTech AI candidate, active open source contributor.
+- Continuous learner: B-tech SMIT
+- Current Organisation: Samsung Research Institute Bangalore
 
 ---
 
@@ -31,7 +32,7 @@
 
 | Repo | Description | Tech |
 |---|---|---|
-| [`healthcare-agentic-rag`](https://github.com/yourrepo) | Scalable RAG system for healthcare docs with secure vector storage and multi-model retrieval | Python, LangChain, pgvector |
+| [`healthcare-agentic-rag`] | Scalable RAG system for healthcare docs with secure vector storage and multi-model retrieval | Python, LangChain, pgvector |
 | [`langchain-multivector`](https://github.com/yourrepo) | MultiVectorRetriever, chain decorators, and TypedDict state management demos | Python, LangChain, PostgreSQL |
 | [`ds-interview-prep`](https://github.com/yourrepo) | Comprehensive data science interview question sets (pandas, ML, NLP) | Python, Markdown |
 | [`docker-devcontainer-setup`](https://github.com/yourrepo) | Optimized devcontainer setup for VS Code, WSL2, Poetry, pgvector | Docker, Python, VS Code |
@@ -65,8 +66,8 @@
 
 ## 📌 Connect & Collaborate
 
-- LinkedIn: [linkedin.com/in/your](https://www.linkedin.com/in/ashishgupta26/)
-- Email: [you@email.com](mailto:ashishgupta2692@gmail.com)
+- LinkedIn: [https://www.linkedin.com/in/ashishgupta26/]
+- Email: [mailto:ashishgupta2692@gmail.com]
 
 ---
 
