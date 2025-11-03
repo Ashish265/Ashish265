@@ -4,9 +4,8 @@
 
 <p align="center">
   <b>Senior Data Scientist & ML Engineer | Agentic AI | RAG Systems | 10+ years | 🚀</b><br>
-  <a href="https://yourdomain.com">Portfolio</a> •
   <a href="https://linkedin.com/in/your">LinkedIn</a> •
-  <a href="mailto:you@email.com">Email</a>
+  <a href="mailto:ashishgupta2692@gmail.com">Email</a>
 </p>
 
 <p align="center">
