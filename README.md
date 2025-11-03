@@ -3,9 +3,10 @@
 <h1 align="center">👋 Hi, I'm Ashish Gupta!</h1>
 
 <p align="center">
-  <b>Senior Data Scientist & ML Engineer | Agentic AI  10+ years | 🚀</b><br>
+  <b>Senior Data Scientist & ML Engineer | Agentic AI | RAG Systems | 10+ years | 🚀</b><br>
+  <a href="https://yourdomain.com">Portfolio</a> •
   <a href="https://linkedin.com/in/your">LinkedIn</a> •
-  <a href="mailto:ashishgupta2692@gmail.com">Email</a>
+  <a href="mailto:you@email.com">Email</a>
 </p>
 
 <p align="center">
@@ -20,39 +21,13 @@
 
 ## 🧑‍💻 About Me
 
-- **Senior Data Scientist/ML Engineer** building advanced agentic and retrieval-augmented generation systems for enterprises, especially regulated healthcare.
+- **Senior Data Scientist/ML Engineer** building advanced agentic and retrieval-augmented generation systems for enterprises.
 - Experienced in MLOps, LangChain, LLM optimization, multimodal AI architectures.
 - Mentor for data science interviews and career advancement.
-- Continuous learner: B-tech SMIT
-- Current Organisation: Samsung Research Institute Bangalore
+- Current Organisation: SRIB
 
 ---
 
-## 🔥 Featured Projects
-
-| Repo | Description | Tech |
-|---|---|---|
-| [`healthcare-agentic-rag`] | Scalable RAG system for healthcare docs with secure vector storage and multi-model retrieval | Python, LangChain, pgvector |
-| [`langchain-multivector`](https://github.com/yourrepo) | MultiVectorRetriever, chain decorators, and TypedDict state management demos | Python, LangChain, PostgreSQL |
-| [`ds-interview-prep`](https://github.com/yourrepo) | Comprehensive data science interview question sets (pandas, ML, NLP) | Python, Markdown |
-| [`docker-devcontainer-setup`](https://github.com/yourrepo) | Optimized devcontainer setup for VS Code, WSL2, Poetry, pgvector | Docker, Python, VS Code |
-| [`ai-compliance-toolkit`](https://github.com/yourrepo) | Best-practices for AI in regulated health environments (privacy, workflow templates) | YAML, Python |
-
----
-
-## 📈 Other Contributions & Learning
-
-- Contributions to: 🤗 [Hugging Face](https://github.com/huggingface), [LangChain](https://github.com/langchain-ai)
-- Speaker at: [AI in Healthcare 2025](#) | [LangChain Agents Conference](#)
-- Ongoing education: [IIT Hyderabad MTech (AI) Research](#), [NPTEL Courses Progress](#)
-
----
-
-## 💬 Recent Activity
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&hide=contribs&theme=radical)
-
----
 
 ## 🛠️ Skills
 
@@ -66,19 +41,7 @@
 
 ## 📌 Connect & Collaborate
 
-- LinkedIn: [https://www.linkedin.com/in/ashishgupta26/]
-- Email: [mailto:ashishgupta2692@gmail.com]
-
----
-
-<!-- Badges for fun stats -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=blue" alt="Profile views">
-  <img src="https://img.shields.io/github/followers/yourusername?label=Followers&style=flat">
-</p>
+- LinkedIn: [linkedin.com/in/your](https://www.linkedin.com/in/ashishgupta26/)
+- Email: [you@email.com](mailto:ashishgupta2692@gmail.com)
 
 
-<!---
-Ashish265/Ashish265 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
