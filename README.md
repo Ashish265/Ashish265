@@ -40,7 +40,7 @@
 
 ## 📌 Connect & Collaborate
 
-- LinkedIn: [linkedin.com/in/your](https://www.linkedin.com/in/ashishgupta26/)
-- Email: [you@email.com](mailto:ashishgupta2692@gmail.com)
+- LinkedIn: [Ashish Gupta Linkedin](https://www.linkedin.com/in/ashishgupta26/)
+- Email: [Gmail](mailto:ashishgupta2692@gmail.com)
 
 
