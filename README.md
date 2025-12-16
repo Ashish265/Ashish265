@@ -23,7 +23,8 @@
 - **Senior Data Scientist/ML Engineer** building advanced agentic and retrieval-augmented generation systems for enterprises.
 - Experienced in MLOps, LangChain, LLM optimization, multimodal AI architectures.
 - Mentor for data science interviews and career advancement.
-- Current Organisation: SRIB
+- Current Organisation: OPTUM
+- Previous Organisation: Samsung Research Institute Bangalore, Accenture, Onward Technologies, TCS
 
 ---
 
